@@ -1,0 +1,22 @@
+Short Description:
+A general entertaining gacha bot with unique characters! Tame and pet new monsters and add them to your collection.
+
+Long Description:
+A general entertaining gacha bot with unique characters! Tame and pet new monsters and add them to your collection.
+Generate cute cat and dog pictures or express yourself using anime reactions!
+The bot was made as a passion project. I'll update the bot on request, feel free to suggest new characters to be added to the pool.
+Join the support server for additional help and to recommend new changes.
+
+Little pets currently have 3 categories of commands:
+- Fun: generate cat and dog pictures, jokes, and anime actions
+- General: check on someone's avatar, history or server information.
+- Pet: the main gacha game. Start your adventure now with /start
+
+Support Server:
+https://discord.gg/rDyqHCZRZT
+
+Command Prefix:
+/
+
+Bot Invite Link:
+https://discord.com/api/oauth2/authorize?client_id=467432672474431488&permissions=8&scope=bot
